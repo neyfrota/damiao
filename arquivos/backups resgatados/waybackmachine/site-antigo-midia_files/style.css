@@ -1,0 +1,95 @@
+.Texto
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 12px;
+    COLOR: black;
+    FONT-FAMILY: Verdana, Arial, Tahoma
+}
+.TextoMenu
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 11px;
+    CURSOR: hand;
+    COLOR: white;
+    FONT-FAMILY: Arial, Tahoma, Verdana
+}
+.TextoMenu1
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 11px;
+    CURSOR: hand;
+    COLOR: white;
+    FONT-FAMILY: Arial, Tahoma, Verdana
+}
+.TextoContador
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+    COLOR: black;
+    FONT-FAMILY: Verdana, Arial, Tahoma
+}
+.TextoDamiao
+{
+    FONT-WEIGHT: 100;
+    FONT-SIZE: 10px;
+    COLOR: black;
+    FONT-STYLE: italic;
+    FONT-FAMILY: Verdana, Arial, Tahoma
+}
+.TextoTitulo
+{
+    FONT-SIZE: 18px;
+    COLOR: black;
+    FONT-FAMILY: Verdana, Arial, Tahoma
+}
+.TextoLateral
+{
+    FONT-WEIGHT: 100;
+    FONT-SIZE: 10px;
+    COLOR: black;
+    FONT-FAMILY: Verdana, Arial, Tahoma
+}
+.TextoLink
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12px;
+    CURSOR: hand;
+    COLOR: black;
+    FONT-FAMILY: Verdana, Arial, Tahoma;
+    TEXT-DECORATION: none
+}
+.TextoFotos
+{
+    FONT-SIZE: 9px;
+    COLOR: black;
+    FONT-FAMILY: Verdana, Arial, Tahoma
+}
+.TextoLink2
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12px;
+    COLOR: black;
+    FONT-FAMILY: Verdana, Arial, Tahoma
+}
+
+/*
+     FILE ARCHIVED ON 08:50:29 Feb 09, 2007 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 05:29:45 Apr 12, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 1339.592
+  exclusion.robots: 0.075
+  exclusion.robots.policy: 0.069
+  RedisCDXSource: 709.56
+  esindex: 0.004
+  LoadShardBlock: 614.505 (3)
+  PetaboxLoader3.datanode: 674.957 (4)
+  CDXLines.iter: 13.797 (3)
+  load_resource: 745.973
+  PetaboxLoader3.resolve: 258.153
+*/

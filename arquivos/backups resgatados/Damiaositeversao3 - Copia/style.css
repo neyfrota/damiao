@@ -1,0 +1,106 @@
+.LinkCapa
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 14px;
+    COLOR: #FFFFFF;
+    FONT-FAMILY: Verdana, Arial, Tahoma
+}
+.LinkCapa2
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 11px;
+    COLOR: #FFFFFF;
+    FONT-FAMILY: Verdana, Arial, Tahoma
+}
+
+.Texto
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 12px;
+    COLOR: black;
+    FONT-FAMILY: Verdana, Arial, Tahoma
+}
+
+.Texto2
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 10px;
+    COLOR: black;
+    FONT-FAMILY: Verdana, Arial, Tahoma
+}
+
+.TextoDamiao
+{
+	font-weight: bold;
+	font-size: 18px;
+	color: black;
+	font-style: italic;
+	font-family: Verdana, Arial, Tahoma;
+}
+
+.TextoMenu
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 11px;
+    CURSOR: hand;
+    COLOR: white;
+    FONT-FAMILY: Arial, Tahoma, Verdana
+}
+.TextoMenu1
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 11px;
+    CURSOR: hand;
+    COLOR: white;
+    FONT-FAMILY: Arial, Tahoma, Verdana
+}
+.TextoContador
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+    COLOR: black;
+    FONT-FAMILY: Verdana, Arial, Tahoma
+}
+.TextoDamiao
+{
+    FONT-WEIGHT: 100;
+    FONT-SIZE: 10px;
+    COLOR: black;
+    FONT-STYLE: italic;
+    FONT-FAMILY: Verdana, Arial, Tahoma
+}
+.TextoTitulo
+{
+    FONT-SIZE: 18px;
+    COLOR: black;
+    FONT-FAMILY: Verdana, Arial, Tahoma
+}
+.TextoLateral
+{
+    FONT-WEIGHT: 100;
+    FONT-SIZE: 10px;
+    COLOR: black;
+    FONT-FAMILY: Verdana, Arial, Tahoma
+}
+.TextoLink
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12px;
+    CURSOR: hand;
+    COLOR: black;
+    FONT-FAMILY: Verdana, Arial, Tahoma;
+    TEXT-DECORATION: none
+}
+.TextoFotos
+{
+    FONT-SIZE: 9px;
+    COLOR: black;
+    FONT-FAMILY: Verdana, Arial, Tahoma
+}
+.TextoLink2
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12px;
+    COLOR: black;
+    FONT-FAMILY: Verdana, Arial, Tahoma
+}

@@ -1,0 +1,70 @@
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/splide.min.css">
+        <link rel="stylesheet" href="css/themes/splide-skyblue.min.css">
+
+        
+
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="js/splide.min.js"></script>
+        <script>
+            document.addEventListener( 'DOMContentLoaded', function () {
+
+                var splide = new Splide( '#image-slider',{
+                    'cover'      : true,
+                    type   : 'loop',
+                    perPage:1,
+                    perMove:1,
+                    autoplay:true,
+                    interval:5000,
+                    pauseOnHover:false,
+                    pauseOnFocus:true,
+                    pagination:false,
+                    width : '100vw',
+            		height: '100vh',
+                });
+                
+                splide.mount();
+
+            } );
+           $(document).ready(function() {
+            });
+        </script>    
+        <style>
+            .splide__slidexxx img {
+                width : 80%;
+                height: 80%;
+            }            
+        </style>
+    </head>
+    <body> 
+
+        
+
+        <img style="display:block; margin-left: auto; margin-right: auto;  position:absolute; bottom: 0px; left: 0px; z-index: 2;" src="img/logo-colorido-rodape.png" width=100%>
+
+
+        <div class="splide" id="image-slider" >
+            <div class="splide__track">
+                <ul class="splide__list">
+                    <li class="splide__slide"><img src="img/slide-1.jpg"></li>
+                    <li class="splide__slide"><img src="img/slide-2.jpg"></li>
+                    <li class="splide__slide"><img src="img/slide-3.jpg"></li>
+                    <li class="splide__slide"><img src="img/slide-4.jpg"></li>
+                    <li class="splide__slide"><img src="img/slide-5.jpg"></li>
+                    <li class="splide__slide"><img src="img/slide-6.jpg"></li>
+                    <li class="splide__slide"><img src="img/slide-7.jpg"></li>
+                </ul>
+            </div>
+            
+            <div class="splide__progress">
+                <div class="splide__progress__bar">
+                </div>
+            </div>
+        </div>
+
+
+    </body>
+</html>
