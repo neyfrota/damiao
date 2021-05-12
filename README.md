@@ -8,9 +8,9 @@ O projeto ainda esta em fase de organizacao. Volte em breve.
 
 
 * [Tarefas parar organizar as informacoes de maneira estruturada](https://github.com/neyfrota/damiao/projects/1)
-* [Site sem design com as informacoes organizadas](website/)
+* [Site sem design com as informacoes organizadas](https://neyfrota.github.io/damiao/website/)
 * Paginas antigas pra buscar referencia
-    * Site antigo - [Introducao](arquivos/backups-resgatados/waybackmachine/site-novo-home.html)
+    * Site antigo - [Introducao](https://neyfrota.github.io/damiao/arquivos/backups-resgatados/waybackmachine/site-novo-home.html)
     * Site antigo - Biografia
     * Site antigo - Discografia
     * Site antigo - Livro
